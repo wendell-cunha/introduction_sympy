@@ -1,2 +1,2 @@
 # introduction_sympy
-Introduction to sympy
+Elements of calculus using SymPy
